@@ -229,7 +229,7 @@ function App() {
         <section id="about" className="s-about target-section">
           <div className="row s-about__content">
             <div className="column xl-12">
-              <div className="section-header" data-num={01}>
+              <div className="section-header" data-num={1}>
                 <h2 className="text-display-title">About Me.</h2>
               </div>{" "}
               {/* end section-header */}
@@ -340,7 +340,7 @@ function App() {
         <section id="works" className="s-works target-section">
           <div className="row">
             <div className="column xl-12">
-              <div className="section-header" data-num={02}>
+              <div className="section-header" data-num={2}>
                 <h2 className="text-display-title">Selected Works.</h2>
               </div>{" "}
               {/* end section-header */}
@@ -683,7 +683,7 @@ function App() {
         <footer id="footer" className="s-footer target-section">
           <div className="row">
             <div className="column lg-12">
-              <div className="section-header light-on-dark" data-num={03}>
+              <div className="section-header light-on-dark" data-num={3}>
                 <h2 className="text-display-title">Get In Touch.</h2>
               </div>{" "}
               {/* end section-header */}
